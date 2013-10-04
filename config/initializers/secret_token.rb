@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-TextMe::Application.config.secret_key_base = '4864b058ca44215d71a4523cb4a49bdbb619dc64b37ef27bfcbc3c120beedf441651758a3c50a3d76a688ef06a856c8847d5b1cc993fe852226d21ccf136c404'
+TripText::Application.config.secret_key_base = '4864b058ca44215d71a4523cb4a49bdbb619dc64b37ef27bfcbc3c120beedf441651758a3c50a3d76a688ef06a856c8847d5b1cc993fe852226d21ccf136c404'

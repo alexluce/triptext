@@ -1,4 +1,4 @@
-TextMe::Application.routes.draw do
+TripText::Application.routes.draw do
 
   root :to => "home#index"
 
